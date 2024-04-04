@@ -14,7 +14,7 @@ SQL (Database: customerdb)<br>
 1. Clone the Repository
    Clone this repository to your local machine using the following HTTPS link:
 
-   git clone <br> <br>
+   git clone backend folder <br> <br>
 
 # Open in IntelliJ
 
@@ -63,7 +63,7 @@ How to Use
 
 1. Clone this repository to your local machine using the following command:
 
-   git clone  
+   git clone frontend folder
    <br>
 
 2. go to index.html page and open in live server , then login in with username and password given below .
